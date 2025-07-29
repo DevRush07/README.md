@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React framework<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Mern Stack<br>💬 As👋 Hi, I’m Roshan Kumar Pandey  <br>💻 I’m passionate about coding, open source, and building useful tools  <br>🌱 Currently learning [  TypeScript, AI/ML]  <br>📫 Reach me at [www.linkedin.com/in/<br>roshan-pandey-1784b0320]  <br>🚀 Always up for collaboration and new challenges!<br>k me about
+🔭 I’m currently working on React framework<br>🌱 I’m currently learning Mern Stack<br>💬 As👋 Hi, I’m Roshan Kumar Pandey  <br>💻 I’m passionate about coding, open source, and building useful tools  <br>🌱 Currently learning [  TypeScript, AI/ML]  <br>📫 Reach me at [www.linkedin.com/in/<br>roshan-pandey-1784b0320]  <br>🚀 Always up for collaboration and new challenges!<br>
 
 
 ## 🌐 Socials:
